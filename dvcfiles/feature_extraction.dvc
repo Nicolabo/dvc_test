@@ -1,0 +1,13 @@
+cmd: python code/featurization.py
+deps:
+- md5: ce7b0bd196adf75be259f531e95ec792
+  path: code/featurization.py
+- md5: b68fa555607d0399f8de130b41c6c211
+  path: code/conf.py
+- md5: 33f8f1691c73675c869a0205194fa31c.dir
+  path: data/tt
+md5: d6bc3c3c96ba1de65fa13ae0f4a0d9e0
+outs:
+- cache: true
+  md5: f58201928983ce660e5d42bcab5db152.dir
+  path: data/matrix_t
