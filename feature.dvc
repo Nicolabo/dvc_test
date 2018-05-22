@@ -6,8 +6,8 @@ deps:
   path: code/conf.py
 - md5: 7d0e2d849e2615fd2edf440400a17f8a.dir
   path: data/tt
-md5: 5c35bb39ebaedc29377e0437954726c6
+md5: 9ffadf62758ae44dcaed0efa648cd1ef
 outs:
 - cache: true
-  md5: 004306edd161856df86c2fa0108fc2bd
-  path: data/matrix_t/matrix-train.p
+  md5: 6a5158946b41a3bf5cf295358916d0a9.dir
+  path: data/matrix_t
