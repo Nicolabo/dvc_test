@@ -4,10 +4,10 @@ deps:
   path: code/featurization.py
 - md5: b68fa555607d0399f8de130b41c6c211
   path: code/conf.py
-- md5: 33f8f1691c73675c869a0205194fa31c.dir
+- md5: 7d0e2d849e2615fd2edf440400a17f8a.dir
   path: data/tt
-md5: d6bc3c3c96ba1de65fa13ae0f4a0d9e0
+md5: 5c35bb39ebaedc29377e0437954726c6
 outs:
 - cache: true
-  md5: f58201928983ce660e5d42bcab5db152.dir
-  path: data/matrix_t
+  md5: 004306edd161856df86c2fa0108fc2bd
+  path: data/matrix_t/matrix-train.p

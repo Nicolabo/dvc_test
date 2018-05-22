@@ -1,13 +1,13 @@
 cmd: python code/split_train_test.py 0.33 20180319
 deps:
-- md5: 8c0e72f83ebdc09c69ed0a17af50c62a.dir
+- md5: e7b66457396156f39378650eff3c2ee1.dir
   path: data/tsv
 - md5: ae25b36c677067e81170f2db3cb2eca8
   path: code/split_train_test.py
 - md5: b68fa555607d0399f8de130b41c6c211
   path: code/conf.py
-md5: a1d011b3aae6ca10ed50b2cb14764909
+md5: a73122fd14fb33533c56cd90a825ce3f
 outs:
 - cache: true
-  md5: 33f8f1691c73675c869a0205194fa31c.dir
+  md5: 7d0e2d849e2615fd2edf440400a17f8a.dir
   path: data/tt
